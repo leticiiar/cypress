@@ -1,0 +1,13 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "projeto de testes de ponta a ponta no Mark L",
+  "main": "index.js",
+  "author": "Leticia Rodrigues",
+  "license": "MIT",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.2",
+    "allure-commandline": "^2.29.0",
+    "cypress": "^13.8.1"
+  }
+}
